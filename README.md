@@ -3,7 +3,7 @@
 ## Programming is fun wooow
 
 * 13.3.: Git
- * This is a sub bullet point
+ * Learning diff
 
 
 * Yay I did some markup in atom
