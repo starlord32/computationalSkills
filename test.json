@@ -1,0 +1,8 @@
+{
+  "fistName": "John",
+  "lastName": "Smith",
+  "Cities": {
+    "city1": "Vienna",
+    "city2": "Salzburg",
+  }
+}
