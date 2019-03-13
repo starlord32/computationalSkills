@@ -1,8 +1,8 @@
-# This is a title
+# Fun computational skills workshop yay
 
-## This is a subtitle
+## Programming is fun wooow
 
-* This is a bullet point
+* 13.3.: Git
  * This is a sub bullet point
 
 
