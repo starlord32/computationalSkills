@@ -1,0 +1,5 @@
+#persons-table, #persons-table * { /*The star also accesses the inside of the table*/
+  border-collapse: 0;
+  border: solid;
+  border-spacing: 0;
+}

@@ -1,0 +1,106 @@
+body {
+  width: 100%;
+  float: left;
+  margin: 0;
+  background-color: #EAEAEA;
+
+}
+
+.lala1 {
+  float: right;
+  width: 96%; /* changes the width of the list */
+  padding: 0;
+  margin: 1%;
+}
+
+.lala2 {
+  float: left;
+  width: 96%;
+  padding: 0;
+  margin: 1%;
+}
+
+li {
+  display: inline-block;
+  width: 30%;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  width: 96%;
+  padding: 1%;
+  margin: 1%;
+}
+
+a:link {
+  color: #9C9C9C;
+}
+
+a:visited {
+  color: #9C9C9C;
+}
+
+wrapper {
+  float: left;
+  width: 96%;
+  margin: 1%;
+  padding: 1%;
+  border-style: solid;
+}
+
+
+
+h1 {
+  width: 96%;
+  margin: 0;
+  padding: 2%;
+  background-color: #9C9C9C;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+
+.art1 {
+  float: left;
+  width: 30%;
+  margin: 0 0 0 1%;
+}
+
+.art2 {
+  float: right;
+  width: 60%;
+  margin: 0 0 0 1%;
+}
+
+pictures {
+  border: 2px solid pink;
+  float: left;
+  width: 94%;
+  margin: 2% 0 0 1%;
+}
+
+img {
+  width: 45%;
+  margin: 2%;
+}
+
+
+p {
+  width: 96%;
+  margin: 1%;
+  padding: 1%;
+  color: red;
+  font-size: 22px;
+}
+
+table {
+  width: 90%;
+  letter-spacing: 3px;
+  padding: 1%;
+  margin: 1%;
+  border: 1px solid black;
+  border-spacing:0;
+  border-collapse: collapse;
+}
