@@ -44,7 +44,7 @@ fetch(sourceURL)
     var cell_4 = row.insertCell(3);
     // Add some text to the new cells:
     cell_1.innerHTML = person.birthyear;
-    cell_2.innerHTML = prettyName;
+    cell_2.innerHTML = '<a href="'+person.link+'" target="_blank">'+prettyName+'</a>';
     cell_3.innerHTML = person.profession;
     cell_4.innerHTML = person.day + ' ' + person.month + ' 2011';
 
