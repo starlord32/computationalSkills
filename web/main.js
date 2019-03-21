@@ -30,11 +30,11 @@ fetch(sourceURL)
       row.classList.add('actor');
     }
     // Add a class to Austrians
-    if ((new RegExp(/österreich/gi)).test(person.profession)) {
+    if ((new RegExp(/italien/gi)).test(person.profession)) {
       row.classList.add('austrian');
     }
     // Add a class to Auto*
-    if ((new RegExp(/auto/gi)).test(person.profession)) {
+    if ((new RegExp(/schrift/gi)).test(person.profession)) {
       row.classList.add('auto');
     }
     // Insert new cells (<td> elements) at the first 4 positions of the "new" <tr> element:

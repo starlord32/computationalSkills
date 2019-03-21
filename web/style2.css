@@ -3,3 +3,25 @@
   border: solid;
   border-spacing: 0;
 }
+
+#redButton
+{
+  background-color: pink;
+
+}
+
+#greenButton
+{
+  background-color: lightgreen;
+
+}
+
+#yellowButton
+{
+  background-color: yellow;
+
+}
+
+#blueButton {
+  background-color: cyan;
+}
